@@ -1,0 +1,10 @@
+source ~/.profile 
+workon cv3
+
+python main.py
+
+
+facial_recognition_model.xml
+fullbody_recognition_model.xml
+upperbody_recognition_model.xml
+
